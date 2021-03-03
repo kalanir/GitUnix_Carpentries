@@ -1,0 +1,668 @@
+Last login: Wed Mar  3 10:38:56 on ttys002
+➜  writing cd ~
+➜  ~ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+➜  ~ bash
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bash-3.2$ pwd
+/Users/kalani
+bash-3.2$ ls
+Applications	Documents	Google Drive	Movies		Public
+Box		Downloads	KhatriLab	Music		anaconda3
+Desktop		GSE158440	Library		Pictures	carpentry
+bash-3.2$ cd Deskt
+bash: cd: Deskt: No such file or directory
+bash-3.2$ cd Desktop/
+bash-3.2$ ls
+BFC			Unclassified		quals_v2.docx		stuffToOrganize		~$rking Model_v3.docx
+OtherStuff		bali_project		quals_v3.docx		~$People.docx		~$urnal Club Write.docx
+Papers			code			quals_v4.docx		~$als_v4.docx
+Quals_v1.docx		data-shell		quals_v6.docx		~$als_v6.docx
+Screenshots		misc			quals_v7.docx		~$als_v7.docx
+Stanford_Classes	quals			quals_v9.docx		~$als_v9.docx
+bash-3.2$ pwd
+/Users/kalani/Desktop
+bash-3.2$ ls
+BFC			Unclassified		quals_v2.docx		stuffToOrganize		~$rking Model_v3.docx
+OtherStuff		bali_project		quals_v3.docx		~$People.docx		~$urnal Club Write.docx
+Papers			code			quals_v4.docx		~$als_v4.docx
+Quals_v1.docx		data-shell		quals_v6.docx		~$als_v6.docx
+Screenshots		misc			quals_v7.docx		~$als_v7.docx
+Stanford_Classes	quals			quals_v9.docx		~$als_v9.docx
+bash-3.2$ cd /Users/kalani/
+bash-3.2$ pwd
+/Users/kalani
+bash-3.2$ ls
+Applications	Documents	Google Drive	Movies		Public
+Box		Downloads	KhatriLab	Music		anaconda3
+Desktop		GSE158440	Library		Pictures	carpentry
+bash-3.2$ pwd
+/Users/kalani
+bash-3.2$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bash-3.2$ pwd
+/Users/kalani
+bash-3.2$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bash-3.2$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bash-3.2$ clear
+
+bash-3.2$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bash-3.2$ clear
+
+bash-3.2$ pwd
+/Users/kalani
+bash-3.2$ ls
+Applications	Documents	Google Drive	Movies		Public
+Box		Downloads	KhatriLab	Music		anaconda3
+Desktop		GSE158440	Library		Pictures	carpentry
+bash-3.2$ cd Desktop/
+bash-3.2$ pwd
+/Users/kalani/Desktop
+bash-3.2$ ls
+BFC			Unclassified		quals_v2.docx		stuffToOrganize		~$rking Model_v3.docx
+OtherStuff		bali_project		quals_v3.docx		~$People.docx		~$urnal Club Write.docx
+Papers			code			quals_v4.docx		~$als_v4.docx
+Quals_v1.docx		data-shell		quals_v6.docx		~$als_v6.docx
+Screenshots		misc			quals_v7.docx		~$als_v7.docx
+Stanford_Classes	quals			quals_v9.docx		~$als_v9.docx
+bash-3.2$ pwd
+/Users/kalani/Desktop
+bash-3.2$ cd /Users/kalani
+bash-3.2$ pwd
+/Users/kalani
+bash-3.2$ cd Dkop
+bash: cd: Dkop: No such file or directory
+bash-3.2$ cd D
+Desktop/   Documents/ Downloads/ 
+bash-3.2$ cd D
+Desktop/   Documents/ Downloads/ 
+bash-3.2$ cd Desktop/
+bash-3.2$ ls -F
+BFC/				data-shell/			stuffToOrganize/
+OtherStuff/			misc/				~$People.docx
+Papers/				quals/				~$als_v4.docx
+Quals_v1.docx			quals_v2.docx			~$als_v6.docx
+Screenshots/			quals_v3.docx			~$als_v7.docx
+Stanford_Classes/		quals_v4.docx			~$als_v9.docx
+Unclassified/			quals_v6.docx			~$rking Model_v3.docx
+bali_project/			quals_v7.docx			~$urnal Club Write.docx
+code/				quals_v9.docx
+bash-3.2$ ls
+BFC			Unclassified		quals_v2.docx		stuffToOrganize		~$rking Model_v3.docx
+OtherStuff		bali_project		quals_v3.docx		~$People.docx		~$urnal Club Write.docx
+Papers			code			quals_v4.docx		~$als_v4.docx
+Quals_v1.docx		data-shell		quals_v6.docx		~$als_v6.docx
+Screenshots		misc			quals_v7.docx		~$als_v7.docx
+Stanford_Classes	quals			quals_v9.docx		~$als_v9.docx
+bash-3.2$ man ls
+bash-3.2$ ls
+BFC			data-shell		stuffToOrganize
+OtherStuff		misc			~$People.docx
+Papers			quals			~$als_v4.docx
+Quals_v1.docx		quals_v2.docx		~$als_v6.docx
+Screenshots		quals_v3.docx		~$als_v7.docx
+Stanford_Classes	quals_v4.docx		~$als_v9.docx
+Unclassified		quals_v6.docx		~$rking Model_v3.docx
+bali_project		quals_v7.docx		~$urnal Club Write.docx
+code			quals_v9.docx
+bash-3.2$ ls -F
+BFC/				quals_v3.docx
+OtherStuff/			quals_v4.docx
+Papers/				quals_v6.docx
+Quals_v1.docx			quals_v7.docx
+Screenshots/			quals_v9.docx
+Stanford_Classes/		stuffToOrganize/
+Unclassified/			~$People.docx
+bali_project/			~$als_v4.docx
+code/				~$als_v6.docx
+data-shell/			~$als_v7.docx
+misc/				~$als_v9.docx
+quals/				~$rking Model_v3.docx
+quals_v2.docx			~$urnal Club Write.docx
+bash-3.2$ ls -Fa
+./				quals/
+../				quals_v2.docx
+.DS_Store			quals_v3.docx
+.localized			quals_v4.docx
+BFC/				quals_v6.docx
+OtherStuff/			quals_v7.docx
+Papers/				quals_v9.docx
+Quals_v1.docx			stuffToOrganize/
+Screenshots/			~$People.docx
+Stanford_Classes/		~$als_v4.docx
+Unclassified/			~$als_v6.docx
+bali_project/			~$als_v7.docx
+code/				~$als_v9.docx
+data-shell/			~$rking Model_v3.docx
+misc/				~$urnal Club Write.docx
+bash-3.2$ ls -F -a
+./				quals/
+../				quals_v2.docx
+.DS_Store			quals_v3.docx
+.localized			quals_v4.docx
+BFC/				quals_v6.docx
+OtherStuff/			quals_v7.docx
+Papers/				quals_v9.docx
+Quals_v1.docx			stuffToOrganize/
+Screenshots/			~$People.docx
+Stanford_Classes/		~$als_v4.docx
+Unclassified/			~$als_v6.docx
+bali_project/			~$als_v7.docx
+code/				~$als_v9.docx
+data-shell/			~$rking Model_v3.docx
+misc/				~$urnal Club Write.docx
+bash-3.2$ cd .
+bash-3.2$ pwd
+/Users/kalani/Desktop
+bash-3.2$ cd ..
+bash-3.2$ pwd
+/Users/kalani
+bash-3.2$ cd Desktop/
+bash-3.2$ ls
+BFC			data-shell		stuffToOrganize
+OtherStuff		misc			~$People.docx
+Papers			quals			~$als_v4.docx
+Quals_v1.docx		quals_v2.docx		~$als_v6.docx
+Screenshots		quals_v3.docx		~$als_v7.docx
+Stanford_Classes	quals_v4.docx		~$als_v9.docx
+Unclassified		quals_v6.docx		~$rking Model_v3.docx
+bali_project		quals_v7.docx		~$urnal Club Write.docx
+code			quals_v9.docx
+bash-3.2$ cd data-shell/
+bash-3.2$ pwd
+/Users/kalani/Desktop/data-shell
+bash-3.2$ cd ../..
+bash-3.2$ pwd
+/Users/kalani
+bash-3.2$ pwd
+/Users/kalani
+bash-3.2$ Desktop/data-shell/
+bash: Desktop/data-shell/: is a directory
+bash-3.2$ cd Desktop/data-shell/
+bash-3.2$ pwd
+/Users/kalani/Desktop/data-shell
+bash-3.2$ cd Desktop/data-shell/
+bash: cd: Desktop/data-shell/: No such file or directory
+bash-3.2$ ls
+Screen Shot 2020-10-26 at 1.11.10 AM.png
+Screen Shot 2020-10-26 at 2.36.53 AM.png
+Screen Shot 2020-10-27 at 10.42.16 AM.png
+Screen Shot 2020-10-27 at 7.26.59 PM.png
+Screen Shot 2020-10-27 at 9.53.59 AM.png
+Screen Shot 2020-10-27 at 9.55.50 AM.png
+creatures
+data
+folder1
+folder2
+folder3
+makefolders.sh
+molecules
+north-pacific-gyre
+notes.txt
+pizza.cfg
+solar.pdf
+thesis_backup
+writing
+bash-3.2$ pwd
+/Users/kalani/Desktop/data-shell
+bash-3.2$ ls -FhlS
+total 3408
+-rw-r--r--@  1 kalani  staff   873K Oct 27 09:55 Screen Shot 2020-10-27 at 9.55.50 AM.png
+-rw-r--r--@  1 kalani  staff   623K Oct 27 09:54 Screen Shot 2020-10-27 at 9.53.59 AM.png
+-rw-r--r--@  1 kalani  staff    55K Oct 27 19:27 Screen Shot 2020-10-27 at 7.26.59 PM.png
+-rw-r--r--@  1 kalani  staff    52K Oct 26 02:36 Screen Shot 2020-10-26 at 2.36.53 AM.png
+-rw-r--r--@  1 kalani  staff    32K Oct 26 01:11 Screen Shot 2020-10-26 at 1.11.10 AM.png
+-rw-r--r--@  1 kalani  staff    23K Oct 27 10:42 Screen Shot 2020-10-27 at 10.42.16 AM.png
+-rw-r--r--@  1 kalani  staff    21K Aug  7  2019 solar.pdf
+drwxr-xr-x@ 12 kalani  staff   384B Oct 28 14:26 molecules/
+drwxr-xr-x@ 11 kalani  staff   352B Aug  7  2019 data/
+drwxr-xr-x@  6 kalani  staff   192B Aug  7  2019 writing/
+drwxr-xr-x@  5 kalani  staff   160B Aug  7  2019 creatures/
+drwxr-xr-x   5 kalani  staff   160B Oct 28 13:51 thesis_backup/
+drwxr-xr-x   4 kalani  staff   128B Oct 27 19:43 folder1/
+drwxr-xr-x   4 kalani  staff   128B Oct 27 19:44 folder2/
+drwxr-xr-x   4 kalani  staff   128B Oct 27 19:45 folder3/
+drwxr-xr-x@  4 kalani  staff   128B Oct 27 21:23 north-pacific-gyre/
+-rw-r--r--@  1 kalani  staff    86B Aug  7  2019 notes.txt
+-rw-r--r--@  1 kalani  staff    54B Oct 27 20:13 makefolders.sh
+-rw-r--r--@  1 kalani  staff    32B Aug  7  2019 pizza.cfg
+bash-3.2$ clear
+
+bash-3.2$ pwd
+/Users/kalani/Desktop/data-shell
+bash-3.2$ cd ~/Desktop/data-shell/
+bash-3.2$ pwd
+/Users/kalani/Desktop/data-shell
+bash-3.2$ mkdir thesis
+bash-3.2$ ls -F
+Screen Shot 2020-10-26 at 1.11.10 AM.png
+Screen Shot 2020-10-26 at 2.36.53 AM.png
+Screen Shot 2020-10-27 at 10.42.16 AM.png
+Screen Shot 2020-10-27 at 7.26.59 PM.png
+Screen Shot 2020-10-27 at 9.53.59 AM.png
+Screen Shot 2020-10-27 at 9.55.50 AM.png
+creatures/
+data/
+folder1/
+folder2/
+folder3/
+makefolders.sh
+molecules/
+north-pacific-gyre/
+notes.txt
+pizza.cfg
+solar.pdf
+thesis/
+thesis_backup/
+writing/
+bash-3.2$ mkdir -p thesis/chapter_1/section_1
+bash-3.2$ cd thesis
+bash-3.2$ ls
+chapter_1
+bash-3.2$ cd chapter_1/
+bash-3.2$ ls
+section_1
+bash-3.2$ pwd
+/Users/kalani/Desktop/data-shell/thesis/chapter_1
+bash-3.2$ cd ..
+bash-3.2$ pwd
+/Users/kalani/Desktop/data-shell/thesis
+bash-3.2$ nano thesis.txt
+bash-3.2$ ls
+chapter_1	thesis.txt
+bash-3.2$ nano thesis.txt 
+bash-3.2$ cat thesis.txt 
+draft1 ;alksjdfdlsafj
+more words
+bash-3.2$ less thesis.txt 
+bash-3.2$ touch thesis2.txt
+bash-3.2$ cat thesis2.txt 
+bash-3.2$ echo hello
+hello
+bash-3.2$ echo hello > thesis2.txt 
+bash-3.2$ cat thesis2.txt 
+hello
+bash-3.2$ ls
+chapter_1	thesis.txt	thesis2.txt
+bash-3.2$ mv thesis.txt ./chapter_1/
+bash-3.2$ ls
+chapter_1	thesis2.txt
+bash-3.2$ ls chapter_1/
+section_1	thesis.txt
+bash-3.2$ cp chapter_1/thesis.txt .
+bash-3.2$ ls
+chapter_1	thesis.txt	thesis2.txt
+bash-3.2$ rm thesis2.txt 
+bash-3.2$ ls
+chapter_1	thesis.txt
+bash-3.2$ rm chapter_1/
+rm: chapter_1/: is a directory
+bash-3.2$ rm -r chapter_1/
+bash-3.2$ ls
+thesis.txt
+bash-3.2$ 
